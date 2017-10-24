@@ -1,0 +1,23 @@
+{
+  "build-depends" : [
+    "TAP::Harness"
+  ],
+  "depends" : [
+  ],
+  "description" : "MyMath",
+  "license" : "MIT",
+  "name" : "MyMath",
+  "perl" : "6.c",
+  "provides" : {
+    "Bailador" : "lib/MyMath.pm"
+  },
+  "source-url" : "git://github.com/collab-dev/perl6-project.git",
+  "support" : {
+    "bugtracker" : "https://github.com/collab-dev/feedback/issues",
+    "source" : "git://github.com/collab-dev/perl6-project.git"
+  },
+  "tags" : [
+  ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
